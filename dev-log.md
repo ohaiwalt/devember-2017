@@ -1,6 +1,6 @@
 ### December 2
 
-Formally wrote up my dedication to Devember, and created this repository. 
+Formally wrote up my dedication to Devember, and created this repository. Did some work on the Go version of the New Relic alerts conditions entities script from day 1.
 
 ### December 1
 
